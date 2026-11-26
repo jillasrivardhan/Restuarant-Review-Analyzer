@@ -4,7 +4,7 @@
 
 The **Restaurant Review Analyzer** uses locally running **Ollama models** to analyze a restaurant review and return:
 
-- 😊 **Sentiment**
+- 😊 **Sentiment Analysis**
 - ⭐ **Estimated Rating**
 - 👍 **Top Positive Points**
 - 👎 **Top Negative Points**
